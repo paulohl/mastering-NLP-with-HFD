@@ -2,6 +2,7 @@
 title: "Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems"
 author: "Paulo H. Leocadio"
 date: 2026-01-28
+isbn: "978-93-6589-061-7"
 description: "Comprehensive, practical, and academic exploration of the diffusers ecosystem, beginning with foundational concepts of the Hugging Face libraries."
 ---
 
@@ -21,19 +22,20 @@ _Thinking Cybersecurity_: AI Automation through Diffused Intelligence explores t
 
 ## Research Chapters
 
-| Part | Chapter | Topic | DOI Reference |
-| :--- | :--- | :--- | :--- |
-| **I** | [01](chapter-01/) | The Rise of Agentic AI in Cybersecurity | [10.22541/au.177307127.70400431](https://doi.org/10.22541/au.177307127.70400431/v1) |
-| **I** | [02](chapter-02/) | Architecting Cognitive Defense Systems | [10.22541/au.177307127.75154947](https://doi.org/10.22541/au.177307127.75154947/v1) |
-| **I** | [03](chapter-03/) | Foundations, Equations, and Cyber Risk Models | [10.22541/au.177307128.80330137](https://doi.org/10.22541/au.177307128.80330137/v1) |
-| **II** | [04](chapter-04/) | Transforming Detection: Prompt Engineering | [10.22541/au.177307128.87282639](https://doi.org/10.22541/au.177307128.87282639/v1) |
-| **II** | [05](chapter-05/) | Triage, Forensics, and Feedback Loops | [10.22541/au.177307129.91287300](https://doi.org/10.22541/au.177307129.91287300/v1) |
-| **II** | [06](chapter-06/) | Model Governance and Ethics | [10.22541/au.177333649.93116487](https://doi.org/10.22541/au.177333649.93116487/v1) |
-| **III**| [07](chapter-07/) | Agent Architectures in Secure Environments | [10.22541/au.177333651.12549862](https://doi.org/10.22541/au.177333651.12549862/v1) |
-| **III**| [08](chapter-08/) | Platforms, Privacy, Vaults, Execution Surfaces | [10.22541/au.177385895.59902692](https://doi.org/10.22541/au.177385895.59902692/v1) |
-| **III**| [09](chapter-09/) | Synthetic Data for Red-Teaming | [10.22541/au.177490746.62271795](https://doi.org/10.22541/au.177490746.62271795/v1) |
-| **IV** | [10](chapter-10/) | Can You Run Diffusers Here? | [10.22541/au.177385896.68564977](https://doi.org/10.22541/au.177385896.68564977/v1) |
-| **IV** | [11](chapter-11/) | From Models to Markets: Industrializing | [10.22541/au.177385898.86242954](https://doi.org/10.22541/au.177385898.86242954/v1) |
+| Part | Chapter           | Topic                                                    | DOI Reference                  |
+| :--- | :---------------- | :------------------------------------------------------- | :----------------------------- |
+| **** | [01](chapter-01/) | Introduction to Hugging Face Diffusers Library           | [10.22541/au.173627631.17676163](https://doi.org/10.22541/au.173627631.17676163/v2) |
+| **** | [02](chapter-02/) | Utilizing Hugging Face Diffusers for Text Classification | [10.22541/au.173627632.24833431](https://doi.org/10.22541/au.173627632.24833431/v1) |
+| **** | [03](chapter-03/) | Advanced Generative Tasks with Hugging Face Diffusers    | [10.22541/au.173627633.36875095](https://doi.org/10.22541/au.173627633.36875095/v1) |
+| **** | [04](chapter-04/) | Sequence Labeling with Hugging Face Diffusers            | [10.22541/au.173627636.61870951](https://doi.org/10.22541/au.173627636.61870951/v1) |
+| **** | [05](chapter-05/) | Transfer Learning for NLP Tasks                          | [10.22541/au.173627634.41673828](https://doi.org/10.22541/au.173627634.41673828/v1) |
+| **** | [06](chapter-06/) | Pipelines in Hugging Face Diffuser                       | [10.22541/au.173627634.45636164](https://doi.org/10.22541/au.173627634.45636164/v1) |
+| **** | [07](chapter-07/) | Schedulers in Hugging Face Diffusers                     | [10.22541/au.173627634.49343603](https://doi.org/10.22541/au.173627634.49343603/v1) |
+| **** | [08](chapter-08/) | Advanced Inference Techniques                            | [10.22541/au.173627635.52849877](https://doi.org/10.22541/au.173627635.52849877/v1) |
+| **** | [09](chapter-09/) | Build Your Own AlphaZero AI                              | [10.22541/au.173627635.55731072](https://doi.org/10.22541/au.173627635.55731072/v1) |
+| **** | [10](chapter-10/) | Deep Q-Network and Atari Games                           | [10.22541/au.173627635.58987041](https://doi.org/10.22541/au.173627635.58987041/v1) |
+| **** | [11](chapter-11/) | Asynchronous Actor-Critic with Gym-Retro                 | [10.22541/au.173627636.61870951](https://doi.org/10.22541/au.173627636.61870951/v1) |
+| **** | [12](chapter-12/) | Road Ahead                                               | [10.22541/au.173627636.64771402](https://doi.org/10.22541/au.173627636.64771402/v1) |
 
 ---
 

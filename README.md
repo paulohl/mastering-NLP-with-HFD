@@ -11,9 +11,9 @@ description: "Comprehensive, practical, and academic exploration of the diffuser
 
 <img src="BPB_logos/BPB-PUBLICATIONS.png" width="200" alt="BPB Publications Logo"/>      
 
-[published by BPB Publishing, © 2025](https://www.bpbonline.com)      
+[published by BPB Publishing, © 2026](https://www.bpbonline.com)      
        
-_Thinking Cybersecurity_: AI Automation through Diffused Intelligence explores the intersection of generative AI, cloud infrastructure, and cybersecurity architecture. Focused on real-world deployment of open-source frameworks such as Hugging Face Diffusers, the book offers a technical and conceptual foundation for building agentic and reproducible AI systems in secure environments.
+_Mastering NLP with Hugging Face_: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems offers a comprehensive, practical, and academic exploration of the diffusers ecosystem, beginning with foundational concepts of the Hugging Face library, progressing to multimodal diffusion, schedulers, RL algorithms (DQN, A3C, AlphaZero), and real-world deployment patterns across cloud platforms. Each chapter offers hands-on examples, design insights, and conceptual explanations that guide you from fundamentals to production-grade workflows.
 
 ### Repository Governance
 * [MIT License](LICENSE) | [Security Policy](SECURITY.md) | [Contributing Guidelines](CONTRIBUTING.md)
@@ -40,13 +40,13 @@ _Thinking Cybersecurity_: AI Automation through Diffused Intelligence explores t
 ---
 
 ## How to Cite
-Leocadio, P. H. (2026). *Thinking Cybersecurity: AI Automation through Diffused Intelligence*. GitHub repository: https://github.com/paulohl/thinking-cybersecurity
+Leocadio, P. H. (2026). *Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems*. GitHub repository: https://github.com/paulohl/mastering-NLP-with-HFD    
 
 ### BibTeX
 ```bibtex
-@book{leocadio2026thinking,
+@book{leocadio2026nlpwithhfd,
   author = {Leocadio, Paulo H.},
-  title = {Thinking Cybersecurity: AI Automation through Diffused Intelligence},
+  title = {Tastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems},
   year = {2026},
-  url = {[https://github.com/paulohl/thinking-cybersecurity](https://github.com/paulohl/thinking-cybersecurity)}
+  url = {[https://github.com/paulohl/mastering-NLP-with-HFD](https://github.com/paulohl/mastering-NLP-with-HFD)}
 }

@@ -1,15 +1,17 @@
 ---
-title: "Thinking Cybersecurity: AI Automation through Diffused Intelligence"
+title: "Mastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "AI Automation through Diffused Intelligence explores the intersection of generative AI, cloud infrastructure, and cybersecurity architecture."
+date: 2026-01-28
+description: "Comprehensive, practical, and academic exploration of the diffusers ecosystem, beginning with foundational concepts of the Hugging Face libraries."
 ---
 
-# Thinking Cybersecurity 
-## AI Automation through Diffused Intelligence
+# Mastering NLP with Hugging Face
+## Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems      
 
-<img src="/Cambridhe_logos/cambridge_scholars_publishing.jpg" width="200"/>       © 2026 Cambridge Scholars Publishing
+<img src="BPB_logos/BPB-PUBLICATIONS.png" width="200" alt="BPB Publications Logo"/>      
 
+[published by BPB Publishing, © 2025](https://www.bpbonline.com)      
+       
 _Thinking Cybersecurity_: AI Automation through Diffused Intelligence explores the intersection of generative AI, cloud infrastructure, and cybersecurity architecture. Focused on real-world deployment of open-source frameworks such as Hugging Face Diffusers, the book offers a technical and conceptual foundation for building agentic and reproducible AI systems in secure environments.
 
 ### Repository Governance

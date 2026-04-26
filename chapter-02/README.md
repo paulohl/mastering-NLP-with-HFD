@@ -1,4 +1,3 @@
-
 ---
 title: "Chapter 02: Utilizing Hugging Face Diffusers for Text Classification"
 author: "Paulo H. Leocadio"

@@ -1,10 +1,4 @@
 ---
-title: "Thinking Cybersecurity: Chapter 03"
-author: "Paulo H. Leocadio"
-date: 2026-04-22
-."
----
----
 title: "Chapter 03: Advanced Generative Tasks with Hugging Face Diffusers"
 author: "Paulo H. Leocadio"
 chapter: 03

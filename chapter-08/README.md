@@ -1,6 +1,12 @@
 ---
-title: "Thinking Cybersecurity: Chapter 08"
+title: "Chapter 07: Advanced Inference Techniques"
 author: "Paulo H. Leocadio"
-date: 2026-04-22
-description: "TWhere the internal logic is protected from external `physics`."
+chapter: 07
+date: 2026-01-28
+isbn: "978-93-6589-318-2"                          # The root book identifier
+doi: "10.22541/au.173627635.52849877/v1"           # The specific chapter identifier
+description: "Where the internal logic is protected from external `physics`."
+keywords: ["HuggingFace", "Transformers", "Autonomous Systems", "LLM"]
 ---
+
+# Advanced Inference Techniques

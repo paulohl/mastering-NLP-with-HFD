@@ -51,3 +51,11 @@ Leocadio, P. H. (2026). *Mastering NLP with Hugging Face: Leveraging diffusion m
   url = {[https://github.com/paulohl/mastering-NLP-with-HFD](https://github.com/paulohl/mastering-NLP-with-HFD)},
   orcid = {0000-0002-4992-4541}
 }
+```
+
+<br>
+<br>
+
+<a href="https://www.amazon.com/dp/B0GPJX289Y">
+  <img src="BPB_logos/2598_Linkedin.png" width="" alt="Available on Amazon">
+</a>

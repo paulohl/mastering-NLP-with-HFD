@@ -48,5 +48,6 @@ Leocadio, P. H. (2026). *Mastering NLP with Hugging Face: Leveraging diffusion m
   author = {Leocadio, Paulo H.},
   title = {Tastering NLP with Hugging Face: Leveraging diffusion models, transformers, and reinforcement learning for generative and analytical systems},
   year = {2026},
-  url = {[https://github.com/paulohl/mastering-NLP-with-HFD](https://github.com/paulohl/mastering-NLP-with-HFD)}
+  url = {[https://github.com/paulohl/mastering-NLP-with-HFD](https://github.com/paulohl/mastering-NLP-with-HFD)},
+  orcid = {0000-0002-4992-4541}
 }
